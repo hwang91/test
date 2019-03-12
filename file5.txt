@@ -1,6 +1,0 @@
-a9727a6 HEAD@{2}: reset: moving to a9727a6
-05f5511 HEAD@{3}: reset: moving to HEAD^
-a9727a6 HEAD@{4}: commit: add content to file1 and file2
-05f5511 HEAD@{5}: commit: Add a directory
-2e31f09 HEAD@{6}: commit: Add 2 files
-9904e96 HEAD@{7}: commit (initial): Add 1 file
