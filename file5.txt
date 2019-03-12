@@ -1,5 +1,3 @@
-a9727a6 HEAD@{0}: reset: moving to a9727
-9904e96 HEAD@{1}: reset: moving to HEAD^^^
 a9727a6 HEAD@{2}: reset: moving to a9727a6
 05f5511 HEAD@{3}: reset: moving to HEAD^
 a9727a6 HEAD@{4}: commit: add content to file1 and file2
